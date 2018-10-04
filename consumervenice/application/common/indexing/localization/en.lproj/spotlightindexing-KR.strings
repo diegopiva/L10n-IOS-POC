@@ -1,0 +1,12 @@
+"spotlightindexing.searchableitem.donate.domainIdentifier" = "payments";
+"spotlightindexing.searchableitem.keywords.money" = "payments";
+"spotlightindexing.searchableitem.keywords.payback" = "pay";
+"spotlightindexing.searchableitem.keywords.requestmoney" = "request payments";
+"spotlightindexing.searchableitem.keywords.sendmoney" = "send payments";
+"spotlightindexing.searchableitem.orderahead.domainIdentifier" = "transactions";
+"spotlightindexing.searchableitem.requestmoney.description" = "Getting paid is simple.";
+"spotlightindexing.searchableitem.requestmoney.domainIdentifier" = "payments";
+"spotlightindexing.searchableitem.requestmoney.title" = "Request Payments";
+"spotlightindexing.searchableitem.sendmoney.description" = "Send payments to overseas merchants. It's faster and more secure.";
+"spotlightindexing.searchableitem.sendmoney.domainIdentifier" = "payments";
+"spotlightindexing.searchableitem.sendmoney.title" = "Send Payments";
