@@ -1,0 +1,16 @@
+/* 
+  Some random test strings
+*/
+
+"ok" = "OK";
+"notNow" = "Not Now";
+"next" = "Next";
+"yes" = "Yes";
+"no" = "No";
+"turnItOn" = "Turn It On";
+"done" = "Done";
+"loading" = "Loading";
+
+// Common
+"common.string.cancel" = "Cancel";
+"common.string.continue" = "Continue";
